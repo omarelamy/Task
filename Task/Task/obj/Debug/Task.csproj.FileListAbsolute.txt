@@ -1,0 +1,6 @@
+c:\users\omar\documents\visual studio 2013\Projects\Task\Task\bin\Debug\Task.exe.config
+c:\users\omar\documents\visual studio 2013\Projects\Task\Task\bin\Debug\Task.exe
+c:\users\omar\documents\visual studio 2013\Projects\Task\Task\bin\Debug\Task.pdb
+c:\users\omar\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.exe
+c:\users\omar\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.pdb
